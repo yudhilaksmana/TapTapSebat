@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/graph_icon"
+        android:title="Laporan"
+        />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/sebats_icon"
+        android:title="TAP"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/lung_icon"
+        android:title="Grafik" />
+
+</menu>
